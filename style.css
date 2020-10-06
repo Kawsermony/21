@@ -1,0 +1,283 @@
+.mony{
+
+margin-bottom: 20rem;
+margin-right: auto;
+}
+.flex{
+display: flex;
+}
+.mmm{
+margin-right: 30rem;
+text-align: justify;
+font-weight: bold;
+}
+.mm{
+margin-right: 45rem;
+}
+.top-button button{
+border: 2px solid white;
+border-radius: 100px;
+margin: 0 5px;
+padding: 12px 35px;
+outline: none;
+color: white;
+font-weight: bold;
+line-height: 1.4;
+}
+.top-button button:hover{
+color: rgb(53, 125, 207);
+background-color: white;
+text-decoration: none;
+box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+border: 2px solid white;
+}
+.line{
+height: 2px;
+width: 70px;
+background-color: rgb(241, 179, 62);
+margin-top: 2rem;
+}
+.line-1{
+                                             height: 2px;
+                                             width: 70px;
+                                             background-color: rgb(241, 179, 62);
+                                             margin-top: 2rem;                                          
+}
+.mon:hover{
+box-shadow: 5px 5px  rgb(107, 108, 109);
+transform: scale(1.1);
+transition: 0.5s all ease;
+border: 2px solid rgb(60, 159, 216);
+border-radius: 15px 15px 15px 15px;
+padding-top: .5rem;
+padding-bottom: .5rem;
+}
+.div{
+background-color: rgb(178, 208, 226);
+}
+.amar-1:hover{
+                                            ;
+                                             transform: scale(1.1);
+                                             transition: 0.5s all ease;
+                                             border: 2px solid rgb(60, 159, 216);
+                                             box-shadow: 0 0 30px 0  rgb(107, 108, 109);
+                                             
+                                                                                      
+}
+.amar img{
+                                             height: 8rem;
+                                             width: 10rem;
+                                            margin-top: 3rem;
+                                           margin-left: 3rem;
+                                            
+}
+.amar{
+                                             margin-top: -4rem;
+}
+.tomar img{
+                                             margin-top: -5rem;
+                                             margin-left: 22rem;
+}
+.div{
+                                             margin-top: 5rem;
+}
+
+.lr{
+                                             background: linear gradiantlinear-gradient(to right,#005bea 0%,#00c6fb 50%,#005bea 100%);
+                                             border-radius: 30px;
+}
+
+.lr:hover{
+                                             background:  linear gradiantlinear-gradient(to left,#00c6fb 0%,#005bea 50%,#005bea 100%);
+                                             transition: 0.3s all ease;
+}
+
+
+
+.right{
+
+margin-left: 5rem;
+margin-top: -2.5rem;
+ }
+.right i{
+color: rgb(79, 151, 233);
+}
+                                         
+                                         .w p{
+                                             margin-top: -2.5rem;
+                                         }
+                                         
+                                         .w{
+                                             margin-left: 20rem;
+                                         }
+                                         
+.prothom{
+background: rgb(233, 233, 233);
+ }
+                                         
+.prothom i{
+ margin-left: .5rem;
+ margin-top: 8px;
+}
+                                         
+                                         .w i{
+                                             margin-left: 1rem;
+                                         }
+                                         
+.kuni {
+ margin-left: 2.5rem;
+ margin-top: -2.7rem;
+ }
+ .kona i{
+border: 2px solid rgb(211, 195, 195);
+padding: 7px;
+border-radius: 30px;
+color: rgb(65, 151, 221);
+}
+.kona {
+ margin-top: 15px;
+ }
+ .upor-line{
+ background-color: transparent;
+ height: 80px;
+ width: 180px;
+position: relative;
+ }
+ .upor-line .text{
+    background-color: transparent;
+    height: 72px;
+    width: 172px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+     top: 50%;
+    left: 50%;
+    text-align: center;
+    padding-top: 10%;
+    z-index: 2;
+}
+                                         
+.upor-line .k{
+    background-color:transparent;
+    border-top: 5px solid rgb(24, 148, 250);
+    border-left: 5px solid rgb(24, 148, 250);
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+                                         
+.text h3{
+    font-size: 20px;
+ }
+ .text p{
+     font-size: 14px;
+ }
+                                         
+ .upor-line .s{
+    background-color:transparent;
+    border-bottom: 5px solid rgb(24, 148, 250);
+    border-right: 5px solid rgb(24, 148, 250);
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+.email{
+margin-left: 28rem;
+}
+.img-1:hover{
+                                             transform: scale(1.05);
+transition: 0.3s all ease;
+}
+.mk{
+margin-top: 5rem;
+}
+
+
+.opacity{
+                                             opacity: 0.3;
+                                         }
+
+                                         nichicon i{
+                                             margin-right: 1rem;
+                                             border: 2px solid white;
+                                             padding: 5px;
+                                             border-radius: 50%;
+                                             background: white;
+                                         }
+                                         
+                                         .nichicon i:hover{
+                                             transform: rotate(360deg);
+                                             transition: 0.5s all linear;
+                                             background: white;
+                                             color: blueviolet;
+                                         
+                                         }
+                                         
+                                         .upor-line{
+                                             background-color: transparent;
+                                             height: 80px;
+                                             width: 180px;
+                                            
+                                             position: relative;
+                                             }
+                                         
+                                             .upor-line .text{
+                                                 background-color: transparent;
+                                                 height: 72px;
+                                                 width: 172px;
+                                                 position: absolute;
+                                                 transform: translate(-50%,-50%);
+                                                 top: 50%;
+                                                 left: 50%;
+                                                 text-align: center;
+                                                 padding-top: 10%;
+                                                 z-index: 2;
+                                             }
+                                         
+                                             .upor-line .hb{
+                                                 background-color:transparent;
+                                                 border-top: 5px solid rgb(24, 148, 250);
+                                                 border-left: 5px solid rgb(24, 148, 250);
+                                                 height: 36px;
+                                                 width: 36px;
+                                                 position: absolute;
+                                                 top: 0;
+                                                 left: 0;
+                                                 z-index: 1;
+                                             }
+                                         
+                                             .text h3{
+                                                 font-size: 20px;
+                                             }
+                                             .text p{
+                                                 font-size: 14px;
+                                             }
+                                         
+                                             .upor-line .cb{
+                                                 background-color:transparent;
+                                                 border-bottom: 5px solid rgb(24, 148, 250);
+                                                 border-right: 5px solid rgb(24, 148, 250);
+                                                 height: 36px;
+                                                 width: 36px;
+                                                 position: absolute;
+                                                 bottom: 0;
+                                                 right: 0;
+                                                 z-index: 1;
+                                             }
+                                         
+                                             .email i{
+                                                 color: rgb(145, 78, 207);
+                                             }
+                                         
+                                         
+                                             .baklol img:hover{
+                                                 transform: scale(1.06);
+                                                 transition: 0.3s all ease;
+                                             }
+                                         
+                                         
